@@ -1,11 +1,11 @@
 # 使用说明
 ## 1. 项目简介
 
-​		本项目通过调用`python`相关的加密库，实现各类加密算法，比较其在效率上的差异，从而设计工业控制信息物理系统网络结构中各层的加密方式。
+​  `README` TEMPLATE
 
 ## 2. 环境配置
 
-1. 运行环境： `python3`
+1. 运行环境： `python3`, `gcc/g++`, `cmake3.2`
 2. 使用的库： `pycryptodome, hmac, hashlib, pdfplumber, numpy，matplotlib`
 3. 库的安装： `pip install -i`
 
