@@ -69,10 +69,8 @@ cd bin
 
 ## 7. 贡献者
 
-​	`DYH,LMC,PH`
+
 
 ## 8. 参考
 
-​	`CSDN`各路神仙
 
-​	`GitHub`源代码
