@@ -1,0 +1,5 @@
+/home/hty/Desktop/OpenCV/test/build/CMakeFiles/edit_cache.dir
+/home/hty/Desktop/OpenCV/test/build/CMakeFiles/rebuild_cache.dir
+/home/hty/Desktop/OpenCV/test/build/bin/CMakeFiles/hello.dir
+/home/hty/Desktop/OpenCV/test/build/bin/CMakeFiles/edit_cache.dir
+/home/hty/Desktop/OpenCV/test/build/bin/CMakeFiles/rebuild_cache.dir
