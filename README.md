@@ -1,7 +1,7 @@
 # 使用说明
 ## 1. 项目简介
 
-​  `README` TEMPLATE
+  `README` TEMPLATE
 
 ## 2. 环境配置
 
@@ -59,9 +59,11 @@ cd bin
 
 ## 5. 版本
 
-​	date: 2022.2.25
-
-​	v1.0
+| Version number | Updated time | Updated content |
+| -------------- | ------------ | --------------- |
+| v2.0.0         |              |                 |
+| v1.1.0         |              |                 |
+| v1.0.0         |              |                 |
 
 ## 6. 作者
 
@@ -72,5 +74,4 @@ cd bin
 
 
 ## 8. 参考
-
 
